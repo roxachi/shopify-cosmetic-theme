@@ -17,7 +17,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "new slides for women just in time for spring!",
             "link_text": "read more",
             "link": "/"
           }
@@ -36,7 +36,7 @@
         "announcement_jcCY8c"
       ],
       "settings": {
-        "color_scheme": "scheme-7a5f0461-cee8-4641-b964-b0d2ac4adb86",
+        "color_scheme": "scheme-4",
         "home_page_only": false,
         "show_line_separator": false,
         "auto_rotate": true,
