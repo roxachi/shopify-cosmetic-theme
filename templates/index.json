@@ -415,9 +415,10 @@
           "settings": {
             "title": "Customer reviews",
             "heading_size": "h2",
-            "description": "<p>Nullam aliquet vestibulum augue non varius. Cras cosmo congue delos melitos. Duis tristique del ante le maliquam praesentoNullam aliquet vestibulum augue non varius. Cras cosmo congue delos melitos. Duis tristique del ante le</p>",
-            "name": "Helen B.",
-            "company_name": "Alita Wedding + Events Co."
+            "icon_user": "shopify://shop_images/flowers-nail-polish-flatlay.jpg",
+            "description": "<p>I have been looking for some gems for nail art. Target and Amazon had my products, but they were too expensive! I got them on this site, and I got them by the end of the week! I WILL be coming back! </p>",
+            "name": "Ashey S.",
+            "company_name": "n/a"
           }
         }
       },
