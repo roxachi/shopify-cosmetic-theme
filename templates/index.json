@@ -473,6 +473,13 @@
             "answer_faqs": "<p>Promotions and discounts are on a member basis. Please join the mailing list, and you will recieve a discount + promotion from joining! </p>"
           }
         },
+        "question_Wc3Lmt": {
+          "type": "question",
+          "settings": {
+            "question_faqs": "What is your privacy policy?",
+            "answer_faqs": "<p>Your data is safe with us! We DO NOT sell our customer's data and is kept within our database. Please read the privacy policy listed at the end of the page to know more.</p>"
+          }
+        },
         "question_9FJ77Q": {
           "type": "question",
           "settings": {
@@ -487,6 +494,7 @@
         "question_yTWzpq",
         "question_mqpEBD",
         "question_ARtapR",
+        "question_Wc3Lmt",
         "question_9FJ77Q"
       ],
       "settings": {
