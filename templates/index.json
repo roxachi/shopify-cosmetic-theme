@@ -448,8 +448,8 @@
         "question_VkEfaC": {
           "type": "question",
           "settings": {
-            "question_faqs": "Question",
-            "answer_faqs": "<p>Use overlay text to give your customers insight into your brand. Select image and text that relates to your style and story.</p>"
+            "question_faqs": "What is your refund policy?",
+            "answer_faqs": "<p>Refunds are free for up to 10 days. Please send a request in the email listed at the below email with your email address, purchase item, and we will start the process within 24 hours.</p>"
           }
         },
         "question_yTWzpq": {
