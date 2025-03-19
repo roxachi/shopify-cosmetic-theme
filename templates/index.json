@@ -429,6 +429,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-3",
+        "image": "shopify://shop_images/photo-of-black-and-pink-shapes.jpg",
         "padding_top": 0,
         "padding_bottom": 0,
         "show_full_width": true
