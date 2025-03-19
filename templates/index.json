@@ -320,7 +320,7 @@
         "heading_wwDULP": {
           "type": "heading",
           "settings": {
-            "heading": "BAD HAIR DAYS HAPPEN TO ANYONE! WE GOT YOU THOUGH!",
+            "heading": "BAD HAIR DAYS HAPPEN TO EVERYONE! WE GOT YOU THOUGH!",
             "heading_size": "h2"
           }
         },
@@ -365,7 +365,7 @@
         "color_scheme": "scheme-c552c7b8-e38f-4a1e-900f-b6c6dccd546c",
         "title": "Featured products",
         "heading_size": "h2",
-        "description": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+        "description": "<p>Hey Gorgeous! We found something just for you! </p>",
         "show_description": false,
         "collection": "face",
         "column": 5,
