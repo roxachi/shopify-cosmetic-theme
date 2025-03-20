@@ -25,8 +25,8 @@
         "announcement_jcCY8c": {
           "type": "announcement",
           "settings": {
-            "text": "Claim your 10% discount by",
-            "link_text": "subscribing with this link now!",
+            "text": "Claim your 10% discount by subscribing in the popup link!",
+            "link_text": "",
             "link": "shopify://products/antique-drawers"
           }
         }
