@@ -198,56 +198,6 @@
         "link": "shopify://collections"
       }
     },
-    "main_product_tabs_hyLhPN": {
-      "type": "main-product-tabs",
-      "blocks": {
-        "product_tabs_hkUPCM": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "Perfume",
-            "collection": "perfume"
-          }
-        },
-        "product_tabs_KKrLWL": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "Lipsticks",
-            "collection": "home-garden"
-          }
-        },
-        "product_tabs_cKEJAk": {
-          "type": "ProductTabs",
-          "settings": {
-            "title": "All",
-            "collection": "all"
-          }
-        }
-      },
-      "block_order": [
-        "product_tabs_hkUPCM",
-        "product_tabs_KKrLWL",
-        "product_tabs_cKEJAk"
-      ],
-      "settings": {
-        "color_scheme": "scheme-1",
-        "padding_top": 10,
-        "padding_bottom": 40,
-        "title": "New Slippers for the Girlies!",
-        "heading_size": "h2",
-        "description": "<p>It's almost summer, but that shouldn't stop you from rocking some fur! </p>",
-        "collection_layout": "carousel",
-        "column": 5,
-        "limit_product": 10,
-        "carousel-arrows": true,
-        "carousel-dots": false,
-        "image_ratio": "square",
-        "image_shape": "default",
-        "show_secondary_image": true,
-        "show_vendor": true,
-        "show_rating": true,
-        "enable_quick_add": true
-      }
-    },
     "featured_product_WT9JV8": {
       "type": "featured-product",
       "blocks": {
@@ -372,7 +322,7 @@
         "heading_size": "h2",
         "description": "<p>Hey Gorgeous! We found something just for you! </p>",
         "show_description": false,
-        "collection": "face",
+        "collection": "electronics",
         "column": 5,
         "limit": 10,
         "carousel-arrows": true,
@@ -622,7 +572,7 @@
         "instagram_block_GXnpbV"
       ],
       "settings": {
-        "color_scheme": "scheme-c552c7b8-e38f-4a1e-900f-b6c6dccd546c",
+        "color_scheme": "scheme-96abc58e-d546-4e46-a311-0f0c9cbe8b6d",
         "border-top": false,
         "top": 0,
         "bottom": 30,
@@ -640,7 +590,6 @@
     "main_icon_with_text_eYyJAy",
     "main_img_link_Fyr7Ky",
     "main_block_four_banners_G6ELgm",
-    "main_product_tabs_hyLhPN",
     "featured_product_WT9JV8",
     "image_with_text_KiGUWw",
     "featured_collection",
