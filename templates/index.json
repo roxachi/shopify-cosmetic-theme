@@ -18,7 +18,7 @@
             "image": "shopify://shop_images/stylish-makeup-and-beauty.jpg",
             "image_mobile": "shopify://shop_images/stylish-makeup-and-beauty.jpg",
             "heading": "Become a member and enjoy 10% towards your first purchase!",
-            "heading_size": "h1",
+            "heading_size": "h0",
             "h1_color": "#ea2176",
             "subheading": "All new lipsticks, locally sourced.",
             "color_richtext": "#8a26d7",
@@ -30,7 +30,7 @@
             "box_align": "middle-center",
             "show_text_box": true,
             "text_alignment": "center",
-            "image_overlay_opacity": 60,
+            "image_overlay_opacity": 70,
             "text_alignment_mobile": "right"
           }
         },
@@ -473,7 +473,7 @@
         "color_scheme": "scheme-5",
         "heading": "Blog posts",
         "heading_size": "h2",
-        "description": "Abani BLog",
+        "description": "Abani Blog",
         "blog": "news",
         "post_limit": 4,
         "columns_desktop": 4,
