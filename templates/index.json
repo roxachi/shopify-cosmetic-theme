@@ -296,15 +296,15 @@
         "buy_buttons_KXzG7k"
       ],
       "settings": {
-        "product": "yellow-watering-can",
+        "product": "15-ml-white-gel-nail-polish-soak-off-formula-for-art-design-and-home-manicure-ideal-gift-for-nail-enthusiasts",
         "title": "NAILS, NAILS, NAILS!",
         "heading_size": "h2",
-        "description": "Yep, we said it! We love your cuticles, and we want you to love them too!",
+        "description": "Yep, we said it! We love your NAILS, and we want you to love them too!",
         "media_size": "medium",
         "constrain_to_viewport": false,
         "media_fit": "cover",
         "media_position": "left",
-        "image_zoom": "lightbox",
+        "image_zoom": "hover",
         "hide_variants": true,
         "enable_video_looping": false,
         "padding_top": 40,
@@ -350,7 +350,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-5",
-        "image": "shopify://shop_images/c9dd3411d77370bf7a8f6343d738cbd2.jpg",
+        "image": "shopify://shop_images/salon-blow-drying-hair.jpg",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "text_first",
