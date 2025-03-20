@@ -515,6 +515,7 @@
         "instagram_block_qHJKqb": {
           "type": "instagram_block",
           "settings": {
+            "instagram_image": "shopify://shop_images/Screenshot_2025-03-20_at_12.36.41.png",
             "link": ""
           }
         },
