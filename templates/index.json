@@ -133,7 +133,8 @@
         "image_item_9FGRn8": {
           "type": "image_item",
           "settings": {
-            "link_url": "/"
+            "image": "shopify://shop_images/testing-lipstick-shades-on-arm.jpg",
+            "link_url": "shopify://collections/lipstick"
           }
         },
         "image_item_EYdpR9": {
