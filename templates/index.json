@@ -140,14 +140,15 @@
         "image_item_EYdpR9": {
           "type": "image_item",
           "settings": {
-            "link_url": "/"
+            "image": "shopify://shop_images/combing-hair-at-salon.jpg",
+            "link_url": "shopify://collections/hair-care"
           }
         },
         "image_item_RniHfD": {
           "type": "image_item",
           "settings": {
-            "image": "shopify://shop_images/8.png",
-            "link_url": "/"
+            "image": "shopify://shop_images/Screenshot_2025-03-20_at_12.36.56_4eae7b5c-bc82-4309-b8a3-e258a67c631a.png",
+            "link_url": "shopify://collections/abani-store"
           }
         }
       },
