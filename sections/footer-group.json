@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "name": "t:sections.footer.name",
   "type": "footer",
@@ -9,7 +18,7 @@
           "type": "text",
           "settings": {
             "heading": "Cosmetic",
-            "subtext": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis risus leo, elementum in malesuada an darius ut augue. Cras sit amet lectus et justo feugiat euismod sed non erat.<\/p>"
+            "subtext": "<p>Abani - we are 100% US based. We source from US based products and aim to provide quality cosmetics, beauty and care products at an affordable price with fast shipping. </p>"
           }
         },
         "link_list_QfDaH8": {
@@ -30,7 +39,7 @@
           "type": "text",
           "settings": {
             "heading": "Contact Us",
-            "subtext": "<p>123 ABC, TAN st, HCM city, Vietnam.<\/p><p><strong>T<\/strong>: <a href=\"tel:0123456989\" target=\"_blank\" title=\"tel:0123456989\">0123456989<\/a><\/p><p><strong>E<\/strong>: <a href=\"mailto:support@cosmetic.com\" target=\"_blank\" title=\"mailto:support@cosmetic.com\">support@cosmetic.com<\/a><\/p>"
+            "subtext": "<p></p><p><strong>T</strong>: 202.630.9269</p><p><strong>E</strong>: <a href=\"mailto:support@cosmetic.com\" target=\"_blank\" title=\"mailto:support@cosmetic.com\">info@abani.store</a></p>"
           }
         }
       },
@@ -52,7 +61,7 @@
         "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36,
-        "copyrighttext": "<p>Shopify Theme by <a href=\"\/\/eboosttech.net\" target=\"_blank\" title=\"\/\/eboosttech.net\">eboosttech.net<\/a><\/p>"
+        "copyrighttext": "<p>Shopify Theme by <a href=\"//eboosttech.net\" target=\"_blank\" title=\"//eboosttech.net\">eboosttech.net</a></p>"
       }
     }
   },
