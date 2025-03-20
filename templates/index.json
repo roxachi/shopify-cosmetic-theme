@@ -31,7 +31,7 @@
             "show_text_box": true,
             "text_alignment": "center",
             "image_overlay_opacity": 70,
-            "text_alignment_mobile": "right"
+            "text_alignment_mobile": "center"
           }
         },
         "slide_cEmkWE": {
