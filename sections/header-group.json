@@ -82,24 +82,12 @@
             "countdown_text_end": "End ins:",
             "countdown_timer": "2024/12/25 22:11:00"
           }
-        },
-        "style_4_ay3gKz": {
-          "type": "style_4",
-          "settings": {
-            "megamenu_items_4": "Kids products",
-            "link_banner_image_4_1": "shopify://collections/all",
-            "title_featured_product_4": "Top Rated",
-            "collection_4": "home-garden",
-            "link_banner_image_4_2": "shopify://collections/all",
-            "link_banner_image_4_3": "shopify://collections"
-          }
         }
       },
       "block_order": [
         "style_1_7BFbFK",
         "style_2_Jiqmib",
-        "style_3_qdRfyY",
-        "style_4_ay3gKz"
+        "style_3_qdRfyY"
       ],
       "settings": {
         "color_scheme": "scheme-96abc58e-d546-4e46-a311-0f0c9cbe8b6d",
