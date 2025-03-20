@@ -522,8 +522,8 @@
         "title": "Instagram",
         "heading_size": "h2",
         "description": "Follow us on Instagram @shop.abani ! We love to socialize and show off our eye candy!  See you there!",
-        "button": "Discover",
-        "button_link": "/"
+        "button": "Follow Us!",
+        "button_link": "https://instagram.com/shop.abani"
       }
     }
   },
