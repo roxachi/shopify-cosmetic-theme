@@ -501,12 +501,14 @@
         "instagram_block_zJ7PCV": {
           "type": "instagram_block",
           "settings": {
+            "instagram_image": "shopify://shop_images/Screenshot_2025-03-20_at_12.37.09.png",
             "link": ""
           }
         },
         "instagram_block_VEfpVX": {
           "type": "instagram_block",
           "settings": {
+            "instagram_image": "shopify://shop_images/Screenshot_2025-03-20_at_12.36.56_4eae7b5c-bc82-4309-b8a3-e258a67c631a.png",
             "link": ""
           }
         },
