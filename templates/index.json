@@ -484,21 +484,10 @@
     "instagram_ef3WEw": {
       "type": "instagram",
       "blocks": {
-        "instagram_block_VQR8Bz": {
-          "type": "instagram_block",
-          "settings": {
-            "link": "https://www.instagram.com/"
-          }
-        },
-        "instagram_block_rhYDwH": {
-          "type": "instagram_block",
-          "settings": {
-            "link": ""
-          }
-        },
         "instagram_block_zAahYQ": {
           "type": "instagram_block",
           "settings": {
+            "instagram_image": "shopify://shop_images/Screenshot_2025-03-20_at_12.32.56.png",
             "link": ""
           }
         },
@@ -531,45 +520,15 @@
           "settings": {
             "link": ""
           }
-        },
-        "instagram_block_yj9cYM": {
-          "type": "instagram_block",
-          "settings": {
-            "link": ""
-          }
-        },
-        "instagram_block_Tfcrhm": {
-          "type": "instagram_block",
-          "settings": {
-            "link": ""
-          }
-        },
-        "instagram_block_KgeHHi": {
-          "type": "instagram_block",
-          "settings": {
-            "link": ""
-          }
-        },
-        "instagram_block_GXnpbV": {
-          "type": "instagram_block",
-          "settings": {
-            "link": ""
-          }
         }
       },
       "block_order": [
-        "instagram_block_VQR8Bz",
-        "instagram_block_rhYDwH",
         "instagram_block_zAahYQ",
         "instagram_block_bH3hgJ",
         "instagram_block_zJ7PCV",
         "instagram_block_VEfpVX",
         "instagram_block_qHJKqb",
-        "instagram_block_LPeJzJ",
-        "instagram_block_yj9cYM",
-        "instagram_block_Tfcrhm",
-        "instagram_block_KgeHHi",
-        "instagram_block_GXnpbV"
+        "instagram_block_LPeJzJ"
       ],
       "settings": {
         "color_scheme": "scheme-96abc58e-d546-4e46-a311-0f0c9cbe8b6d",
