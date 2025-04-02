@@ -37,7 +37,7 @@
       ],
       "settings": {
         "color_scheme": "scheme-4",
-        "home_page_only": false,
+        "home_page_only": true,
         "show_line_separator": false,
         "auto_rotate": true,
         "change_slides_speed": 5
