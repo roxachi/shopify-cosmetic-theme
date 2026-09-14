@@ -35,7 +35,7 @@ endif
 {% assign id = canonical_url | split: 'id%3d' | last %}
 <div class="main-row {{collection.products_count}}"> 
 {% if collection.products_count > 0 %}   
-{% paginate collection.products by limit: limit %} 
+{% paginate collection.products by limit %} 
     {% for product in collection.products   %}
     <div class="main-row__item">  
     	{% render 'card-product',
@@ -59,3 +59,13 @@ endif
     </div>
 {% endif %}
 </div>
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% paginate collection.products by limit: limit %}"
+  to: "{% paginate collection.products by limit %}"
+  position: 1329..1372
+{% endcomment %}

@@ -54,7 +54,7 @@
 <script>
     var primaryLanguage = {{- localization.language.iso_code | json -}};
      {%- for locale in shop.published_locales -%}
-        {%- if locale.primary - %}
+        {%- if locale.primary %}
             primaryLanguage = {{- locale.iso_code | json -}};
         {%- endif -%}
     {%- endfor -%}
@@ -83,4 +83,13 @@
     } else {
         window.addEventListener('load', setupLanguageSwitcher, false);
     }
-</script>
+</script>{%- comment -%}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{%- if locale.primary - %}"
+  to: "{%- if locale.primary %}"
+  position: 1908..1932
+{%- endcomment -%}
